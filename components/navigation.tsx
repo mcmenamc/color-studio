@@ -152,7 +152,6 @@ export function Navigation() {
                 <div className="p-3 bg-black-600 rounded-2xl shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105">
                   <Palette className="w-6 h-6 text-black" />
                 </div>
-                <div className="absolute -top-1 -right-1 w-3 h-3 bg-emerald-400 rounded-full border-2 border-white dark:border-gray-950 animate-pulse" />
               </div>
               <div className="min-w-0 flex-1">
                 <h1 className="text-lg sm:text-xl lg:text-2xl font-bold  bg-clip-text leading-tight">
