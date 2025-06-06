@@ -80,13 +80,13 @@ export default function ColorConverter() {
           </SectionWrapper>
 
           {/* Color Picker Section */}
-          <SectionWrapper
+          {/* <SectionWrapper
             id="color-picker"
             title="Visual Color Picker"
             description="Use the native browser color picker for intuitive color selection"
           >
             <ColorPicker colorData={colorData} onColorChange={setInputColor} />
-          </SectionWrapper>
+          </SectionWrapper> */}
 
           {/* Color Analysis Section */}
           <SectionWrapper
